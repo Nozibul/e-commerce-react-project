@@ -1,6 +1,6 @@
 # e Commerce website 
 
-This project was bootstrapped with [Create My React App](https://naughty-darwin-4116d3.netlify.app/).
+This project was bootstrapped with [Create My React App](https://e-commerce-solution.netlify.app/).
 
 ## Available Scripts
 
